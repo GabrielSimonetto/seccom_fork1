@@ -495,10 +495,20 @@ h6 {
 /* WORKSHOP SINGLE ITEM 
 ------------------------------------------
 */
+.workshop-header {
+    /* background-color: rgba(139,216,189, 0.8); */
+    background-color: rgba(36,54,101, 0.8);
+    border: 1px rgb(247,247,247) solid;
+    /* color: black; */
+    color: white;
+    text-align: center;
+}
 .workshop-desc {
-     background-color: rgba(36,54,101, 0.8);
+     background-color: rgba(139,216,189, 0.8);
+     /* background-color: rgba(36,54,101, 0.8); */
      border: 1px rgb(247,247,247) solid;
-     color: white;
+     color: black;
+     /* color: white; */
      text-align: center;
 }
 .workshop-speaker {
